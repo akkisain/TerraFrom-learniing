@@ -1,8 +1,8 @@
 /*
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIAQRRIY4XULAA7DZR2"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 
